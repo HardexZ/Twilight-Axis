@@ -1040,7 +1040,7 @@
 	name = "dark jacket"
 	desc = "A soft jacket of dark leather. All of the swagger, none of the protection."
 	icon_state = "dark_jacket"
-	slot_flags = ITEM_SLOT_SHIRT|ITEM_SLOT_ARMOR
+	slot_flags = ITEM_SLOT_SHIRT|ITEM_SLOT_ARMOR|ITEM_SLOT_CLOAK
 	sleeved_detail = FALSE
 
 /obj/item/clothing/suit/roguetown/armor/plate/cuirass/iron/triumph
